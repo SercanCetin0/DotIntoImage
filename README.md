@@ -32,7 +32,7 @@
 ## Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/kullaniciadi/image-marker.git
+git clone https://github.com/SercanCetin0/DotIntoImage.git
 cd image-marker
 npm install
 npm run dev
