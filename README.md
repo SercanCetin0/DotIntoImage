@@ -1,6 +1,6 @@
 # DOT INTO IMAGE Projesi
 
-**DOT INTO IMAGE**, kullanıcıların seçtikleri bir görsel üzerine işaretleyiciler (marker) ekleyebildiği, bu markerlara başlık ve açıklama girip tooltip şeklinde gösterebildiği, React / Next.js tabanlı interaktif bir uygulamadır.
+**DOT INTO IMAGE**, kullanıcıların seçtikleri bir görsel üzerine işaretleyiciler (marker) ekleyebildiği, bu markerlara başlık ve açıklama girip tooltip şeklinde gösterebildiği, React JS tabanlı interaktif bir uygulamadır.
 
 ---
 
