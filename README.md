@@ -1,6 +1,6 @@
-# DOT INTO IMAGE Projesi
+# POINT INTO IMAGE Projesi
 
-**DOT INTO IMAGE**, kullanıcıların seçtikleri bir görsel üzerine işaretleyiciler (marker) ekleyebildiği, bu markerlara başlık ve açıklama girip tooltip şeklinde gösterebildiği, React JS tabanlı interaktif bir uygulamadır.
+**POINT INTO IMAGE**, kullanıcıların seçtikleri bir görsel üzerine işaretleyiciler (marker) ekleyebildiği, bu markerlara başlık ve açıklama girip tooltip şeklinde gösterebildiği, React JS tabanlı interaktif bir uygulamadır.
 
 ---
 
@@ -32,7 +32,7 @@
 ## Kurulum ve Çalıştırma
 
 ```bash
-git clone https://github.com/SercanCetin0/DotIntoImage.git
+git clone https://github.com/SercanCetin0/PointIntoImage.git
 cd image-marker
 npm install
 npm run dev
