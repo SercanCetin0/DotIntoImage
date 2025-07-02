@@ -1,12 +1,39 @@
-# React + Vite
+# DOT INTO IMAGE Projesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DOT INTO IMAGE**, kullanıcıların seçtikleri bir görsel üzerine işaretleyiciler (marker) ekleyebildiği, bu markerlara başlık ve açıklama girip tooltip şeklinde gösterebildiği, React / Next.js tabanlı interaktif bir uygulamadır.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Özellikler
 
-## Expanding the ESLint configuration
+- Bilgisayardan resim seçme ve yükleme
+- Görsel üzerine tıklayarak marker ekleme
+- Marker'lara başlık ve açıklama ekleyebilme
+- Marker'lara tıklayınca açılan tooltip ile detay gösterimi
+- Marker silme ve tüm markerları topluca temizleme
+- Marker listesini sayfa altında görüntüleme ve yönetme
+- Marker verilerini console'a kaydetme (simülasyon)
+- Marker tooltip pozisyonlarını otomatik hesaplama
+- Önizleme modunda markerları görüntüleme
+- Responsive ve erişilebilir tasarım
+- Koyu ve açık tema uyumluluğu (TailwindCSS)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Teknolojiler
+
+- React 18 / Next.js 13 (App Router)
+- TailwindCSS ile stil
+- Fonksiyonel bileşenler ve React Hooks (useState)
+- Modüler component yapısı
+
+---
+
+## Kurulum ve Çalıştırma
+
+```bash
+git clone https://github.com/kullaniciadi/image-marker.git
+cd image-marker
+npm install
+npm run dev
+
